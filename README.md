@@ -1,6 +1,30 @@
 # Hello there! :computer: :video_game:
-Hey there! I'm Jakub, an 19-year-old passionate about programming, games, and game development. My dream is to become a game developer or frontend developer, and I'm currently honing my skills with the Godot Game Engine. I love diving into various programming languages and exploring their capabilities. If you share similar interests or want to collaborate on projects, feel free to reach out!
+Hey there! I'm Jakub, an 19-year-old programer from Poland 🇵🇱 passionate about 💻 programming, 🎮 games, and 🎲 game development. My dream is to become a game developer, and I'm currently honing my skills with the Godot Engine. I love diving into various programming languages and exploring their capabilities. If you share similar interests or want to collaborate on projects, feel free to reach out! 😎
 
-## Skills
-Programming Languages: C#, JavaScript, TypeScript, Python, C++
-Tools & Technologies: Godot Game Engine
+### Skills
+Programming in:
+- JavaScript
+- TypeScript
+- Python
+- GDScript
+- C#
+- C++
+- HTML
+- SCSS
+- CSS
+
+Libraries & Frameworks I use:
+- React
+- Angular
+- NodeJS
+
+Game Engines I work with:
+- Unity Engine
+- Godot Engine
+
+And additionally I create my own website designs in Figma! 
+
+### Personal Goals
+- [x] Finish High School 🏫
+- [ ] Get better at pixelarts 🖌️
+- [ ] Create a commercial video game 🎲
