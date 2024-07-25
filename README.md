@@ -13,10 +13,13 @@ Programming in:
 - SCSS
 - CSS
 
-Libraries & Frameworks I use:
+Libraries, Frameworks & Software I use:
 - React
 - Angular
 - NodeJS
+- Git
+- Blender
+- Asprite
 
 Game Engines I work with:
 - Unity Engine
