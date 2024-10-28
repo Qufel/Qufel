@@ -3,6 +3,7 @@ Hey there! I'm Jakub, an 19-year-old programer from Poland 🇵🇱 passionate a
 
 ### Skills
 Programming in:
+- Java
 - JavaScript
 - TypeScript
 - Python
