@@ -28,6 +28,5 @@ Game Engines I work with:
 And additionally I create my own website designs in Figma! 
 
 ### Personal Goals
-- [x] Finish High School 🏫
-- [ ] Get better at pixelarts 🖌️
+- [x] Get better at pixelarts 🖌️
 - [ ] Create a commercial video game 🎲
