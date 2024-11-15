@@ -1,5 +1,5 @@
 # Hello there! :computer: :video_game:
-Hey there! I'm Jakub, an 19-year-old programer from Poland 🇵🇱 passionate about 💻 programming, 🎮 games, and 🎲 game development. My dream is to become a game developer, and I'm currently honing my skills with the Godot Engine. I love diving into various programming languages and exploring their capabilities. If you share similar interests or want to collaborate on projects, feel free to reach out! 😎
+Hey there! I'm Jakub, an 19-year-old programer from Poland 🇵🇱 passionate about 💻 programming, 🎮 games, and 🎲 game development. I love diving into various programming languages and exploring their capabilities. If you share similar interests or want to collaborate on projects, feel free to reach out! 😎
 
 ### Skills
 Programming in:
