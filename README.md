@@ -20,7 +20,7 @@ Libraries, Frameworks & Software I use:
 - NodeJS
 - Git
 - Blender
-- Asprite
+- Aseprite
 
 Game Engines I work with:
 - Creia Engine (My own creation :D)
